@@ -1,10 +1,2 @@
-just wanted to learn how most vibe coding apps worked so decided to create my own from scratch
-
-stack:
-NextJS + TS (using tRPC)
-ShadCN components
-Tanstack Query
-NeonDB + Prisma
-
-To start the code generation after a prompt i'm using Inngest for all background jobs.
+on a quest to build the best note taking app. md + notion + obsidian and other functionalities that will make it the absolute epitome of note taking. Google Docs for Dawgs.
 
